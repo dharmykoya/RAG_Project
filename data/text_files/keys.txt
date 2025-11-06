@@ -1,0 +1,24 @@
+This is the content of sample text file 1.
+    Arsenal is my favorite football club.
+    I love programming in Python.
+    I enjoy learning about AI and machine learning.
+
+    Key Types:
+    Company Key
+        - Used by Company-level Clients (e.g., Travelden, Finchglow, etc.)
+        - Enables access to endpoints for managing agencies, branches, currencies, and      consolidated records.
+
+
+    Agency Key
+        - Used by Agency-level Clients (e.g., Touch Down Travels).
+        - Enables agency-level access (e.g., their bookings, flight rules, and customers).
+
+
+
+    Middleware Logic:
+    The middleware currently:
+        - Detects the type of key (Company or Agency).
+        - Determines authorization scope.
+        - Routes accordingly to service endpoints.
+
+    

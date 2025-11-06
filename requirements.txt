@@ -1,0 +1,16 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+ipykernel
+unstructured 
+openpyxl
+networkx
+pandas
+sentence-transformers
+chromadb
+langchain_groq
+python-dotenv
+langchain_text_splitters
+faiss
